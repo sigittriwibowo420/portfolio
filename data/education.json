@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/ntust-logo.png",
+        "major": "Electronics Engineering Technology",
+        "year": "2022 - 2026",
+        "description": "I am a student at the Semarang State Polytechnic majoring in Electronics Engineering, focusing on low-current electronic devices."
+    },
+    {
+        "university": "SMA PGRI 1 PATI",
+        "logo": "images/smapgri-logo.png",
+        "major": " Natural Sciences",
+        "year": "2019 - 2022",
+        "description": "I studied the science major at Sam PGRI 1 Pati with an excellence class for 3 years."
+    }
+]
