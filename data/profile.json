@@ -26,7 +26,6 @@
     "skills": [
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "PLC Programming", "icon": "fas fa-cxprogrammer", "level": 90},
-	    {"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
         {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
         {"name": "PCB Design", "icon": "fab fa-proteus", "level": 85}
 	
