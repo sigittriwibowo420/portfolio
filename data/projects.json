@@ -20,6 +20,6 @@
          "year": "2025",
          "role": "Engineer",
          "description": "This IoT-based Smart Chicken Coop System successfully provides an intelligent solution for modern farm management by integrating precision control using STM32 and a web-based interface via Raspberry Pi. The system's advantages lie in its ability to provide real-time monitoring through a responsive web interface, reducing reliance on manual supervision, and improving the quality of life for livestock through a consistently optimal environment. With affordable implementation costs and good scalability, this system not only enhances operational efficiency for small-scale farms but also has the potential to be developed into an integrated industrial solution with AI-based predictive technology in the future.",
-         "image": "images/project3.png"
+         "image": "images/project3.jpg"
     }
 ]   
