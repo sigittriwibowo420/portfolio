@@ -14,7 +14,7 @@
         "role": "Engineer",
         "description": "A Line Follower Robot is an autonomous vehicle that detects and follows a black or white path using infrared (IR) sensors. The sensors, typically composed of IR LEDs and photodiodes, measure surface reflectivity to distinguish the line from the floor. A microcontroller processes this data and controls the motor driver to adjust wheel speed/direction, ensuring accurate path tracking.",
         "image": "images/project2.png" 
-    }
+    },
     {
          "title": "This IoT-based Smart Chicken Coop System",
          "year": "2025",
