@@ -13,7 +13,14 @@
         "year": "2024",
         "role": "Engineer",
         "description": "A Line Follower Robot is an autonomous vehicle that detects and follows a black or white path using infrared (IR) sensors. The sensors, typically composed of IR LEDs and photodiodes, measure surface reflectivity to distinguish the line from the floor. A microcontroller processes this data and controls the motor driver to adjust wheel speed/direction, ensuring accurate path tracking.",
-        "image": "images/project2.png" 
+        "image": "images/project2.png"
+    },
+    {
+        "title": "Smart IoT-Based Poultry Farming System",
+        "year": "2025",
+        "role": "Engineer",
+        "description": "This system integrates STM32 for precision control and Raspberry Pi for web-based monitoring, enabling real-time tracking and automated environmental adjustments. Cost-effective and highly scalable, it enhances efficiency for small-scale farms while offering potential for AI-powered predictive optimization. An ideal solution for modern, sustainable, and efficient poultry farming.",
+        "image": "images/project3.png"
     }
   
 ]   
