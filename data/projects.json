@@ -20,7 +20,7 @@
         "year": "2025",
         "role": "Engineer",
         "description": "This system integrates STM32 for precision control and Raspberry Pi for web-based monitoring, enabling real-time tracking and automated environmental adjustments. Cost-effective and highly scalable, it enhances efficiency for small-scale farms while offering potential for AI-powered predictive optimization. An ideal solution for modern, sustainable, and efficient poultry farming.",
-        "image": "images/project3.png"
+        "image": "images/project3.jpg"
     }
   
 ]   
